@@ -1,0 +1,1 @@
+export const BaseUrl= "https://crud-django-c7ri.onrender.com/api/"
